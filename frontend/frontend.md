@@ -10,6 +10,8 @@
 
 [Виды рендеринга](https://tproger.ru/translations/rendering-on-the-web/)
 
+[React Dynamic Rendering](https://midu.dev/holyjs-links) 
+
 ## Videos
 
 [Доклады с HolyJS 2019 Msk](https://www.youtube.com/playlist?list=PL8sJahqnzh8KXjvw3i0bY-fCn1abQMbv8)
