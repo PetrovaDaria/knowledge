@@ -8,5 +8,5 @@
 
 ## Books
 
-[Even Faster Websites](https://www.inspirit.net.in/books/html,%20css%20and%20javascript/Even%20Faster%20Websites.pdf) 
+[Even Faster Websites](https://www.inspirit.net.in/books/html,%20css%20and%20javascript/Even%20Faster%20Websites.pdf)
 

@@ -7,3 +7,4 @@
 [NiceAndEasy](https://www.niceandeasy.me/) - Тимур Зарудный и его блог и подкаст
 
 [Макс Черепица](http://maxcherepitsa.ru/blog/) - селф-менеджмент коуч
+

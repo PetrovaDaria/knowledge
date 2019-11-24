@@ -4,7 +4,5 @@
 
 [Восстановление расфокусированных и смазанных изображений](https://habr.com/ru/post/152885/) \#статья \#habr
 
-![шутка](../.gitbook/assets/rodionnorm.jpg)
-
-
+![&#x448;&#x443;&#x442;&#x43A;&#x430;](https://github.com/PetrovaDaria/knowledge/tree/81b4f81071c318d356d61fe04723f09c8324b60f/.gitbook/assets/rodionnorm.jpg)
 
