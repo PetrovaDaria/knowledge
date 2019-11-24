@@ -31,5 +31,5 @@
 * [stories](stories/README.md)
   * [Stories](stories/stories.md)
 * [travel](travel/README.md)
-  - [Travel](travel/travel.md)
+  - [Travel](travel/Travel.md)
 
