@@ -27,6 +27,8 @@
   * [Computer vision](programming/computer-vision.md)
   * [Programming](programming/programming.md)
   * [Software architecture](programming/software-architecture.md)
+* [psychology](psychology/README.md)
+  * [Psychology](psychology/psychology.md)
 * [raspberry pi](raspberry-pi/README.md)
   - [Raspberry Pi](raspberry-pi/raspberry-pi.md)
 * [social skills](social-skills/README.md)
