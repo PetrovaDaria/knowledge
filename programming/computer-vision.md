@@ -4,4 +4,4 @@
 
 [Восстановление расфокусированных и смазанных изображений](https://habr.com/ru/post/152885/) #статья #habr
 
-![шутка](/Users/da-art/Desktop/knowledge/images/rodionnorm.jpg)
+![шутка](../images/rodionnorm.jpg)
