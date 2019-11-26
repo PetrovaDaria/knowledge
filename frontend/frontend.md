@@ -4,13 +4,17 @@
 
 [Frontend developer handbook](https://frontendmasters.com/books/front-end-handbook/2019/) - огромный справочник с кучей ссылок
 
-[Web Fundumentals от Google](https://developers.google.com/web/fundamentals)
+[Веб-альманах](https://almanac.httparchive.org/en/2019/) - ежегодный отчет о состоянии веба
+
+[Web Fundumentals от Google](https://developers.google.com/web/fundamentals) 
 
 ## Articles
 
 [Виды рендеринга](https://tproger.ru/translations/rendering-on-the-web/)
 
 [React Dynamic Rendering](https://midu.dev/holyjs-links) 
+
+[Введение в сетевую балансировку и проксирование](https://habr.com/ru/company/mailru/blog/347026/) 
 
 ## Videos
 
