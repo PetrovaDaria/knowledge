@@ -9,6 +9,8 @@
   - [Design](design/design.md)
   - [Design guides](design/design-guides.md)
   - [History of design](design/history-of-design.md)
+* [fashion](fashion/README.md)
+  * [Fashion](fashion/Fashion.md)
 * [finances](finances/README.md)
   * [Investing](finances/investing.md)
   * [Finances](finances/finances.md)
