@@ -25,6 +25,7 @@
   - [Node.js](frontend/node.js.md)
 * [machine learning](machine-learning/README.md)
   - [Machine learning](machine-learning/machine-learning.md)
+  - [Neural networks](machine-leraning/Neural networks.md)
   - [NLP](machine-learning/nlp.md)
 * [music](music/README.md)
   - [Music](music/music.md)
