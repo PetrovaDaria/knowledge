@@ -16,6 +16,10 @@
 
 [Введение в сетевую балансировку и проксирование](https://habr.com/ru/company/mailru/blog/347026/) 
 
+[Content Security Policy](https://developers.google.com/web/fundamentals/security/csp) 
+
+[Основы DNS](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
+
 ## Videos
 
 [Доклады с HolyJS 2019 Msk](https://www.youtube.com/playlist?list=PL8sJahqnzh8KXjvw3i0bY-fCn1abQMbv8)
