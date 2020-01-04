@@ -20,6 +20,10 @@
 
 [Основы DNS](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
 
+[Фронтенд в 2018 году](https://habr.com/ru/company/ruvds/blog/433396/) - итоги года от RUVDS
+
+[Фронтенд в 2019 году](https://habr.com/ru/company/ruvds/blog/481576/) - итоги года от RUVDS
+
 ## Videos
 
 [Доклады с HolyJS 2019 Msk](https://www.youtube.com/playlist?list=PL8sJahqnzh8KXjvw3i0bY-fCn1abQMbv8)
