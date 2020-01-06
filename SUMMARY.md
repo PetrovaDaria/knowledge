@@ -27,6 +27,8 @@
   - [Frontend](frontend/frontend.md)
   - [JavaScript](frontend/javascript.md)
   - [Node.js](frontend/node.js.md)
+* [habits](habits/README.md)
+  * [Habits](habits/habits.md)
 * [home](home/README.md)
   * [Home](home/home.md)
 * [machine learning](machine-learning/README.md)
@@ -57,6 +59,7 @@
 * [stories](stories/README.md)
   * [Stories](stories/stories.md)
 * [travel](travel/README.md)
+  - [Asia](travel/asia.md)
   - [Travel](travel/Travel.md)
   - [Fests](travel/Fests.md)
 
