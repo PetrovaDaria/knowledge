@@ -31,6 +31,8 @@
   * [Habits](habits/habits.md)
 * [home](home/README.md)
   * [Home](home/home.md)
+* [lifehacks](lifehacks/README.md)
+  * [Technologies](lifehacks/Technologies.md)
 * [machine learning](machine-learning/README.md)
   - [Machine learning](machine-learning/machine-learning.md)
   - [Neural networks](machine-leraning/Neural networks.md)
