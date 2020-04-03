@@ -7,6 +7,8 @@
   - [Blogs](blogs/blogs.md)
 * [books](books/README.md)
   * [Books lists](books/books-lists.md)
+* [career](career/README.md)
+  * [Career](career/Career.md)
 * [dance](dance/README.md)
   * [Swing](dance/swing.md)
 * [design](design/README.md)
