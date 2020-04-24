@@ -1,6 +1,9 @@
 # Table of contents
 
 * [knowledge](README.md)
+* [art](art/README.md)
+  * [Architecture](art/architecture.md)
+  * [Art](art/art.md)
 * [biology](biology/README.md)
   - [Human biology](biology/human-biology.md)
 * [blogs](blogs/README.md)
@@ -35,6 +38,8 @@
   * [Diseases](health/diseases.md)
 * [home](home/README.md)
   * [Home](home/home.md)
+* [languages](languages/README.md)
+  * [Languages](languages/languages.md)
 * [lifehacks](lifehacks/README.md)
   * [Technologies](lifehacks/Technologies.md)
 * [machine learning](machine-learning/README.md)
