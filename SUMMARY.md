@@ -47,6 +47,7 @@
   - [Neural networks](machine-leraning/Neural networks.md)
   - [NLP](machine-learning/nlp.md)
 * [maths](maths/README.md)
+  * [Maths](maths/maths.md)
   * [Statistics](maths/stats.md)
 * [mobile dev](mobile-dev/README.md)
   * [android](mobile-dev/android.md)
