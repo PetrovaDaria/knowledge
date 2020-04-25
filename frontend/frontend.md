@@ -2,6 +2,8 @@
 
 ## Guides
 
+[Скринкаст по Webpack](https://learn.javascript.ru/screencast/webpack#webpack-1-intro) - обязательно надо пройти. Немножко устаревшие видео, но можно разобраться
+
 [Frontend developer handbook](https://frontendmasters.com/books/front-end-handbook/2019/) - огромный справочник с кучей ссылок
 
 [Веб-альманах](https://almanac.httparchive.org/en/2019/) - ежегодный отчет о состоянии веба
